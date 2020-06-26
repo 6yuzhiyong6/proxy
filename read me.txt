@@ -11,3 +11,4 @@ homework:
                 当没有权限的时候使用shiro的注解不能调用service的add方法@RequiredPermission
             删
             改
+电风扇发射点发生v
