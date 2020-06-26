@@ -9,6 +9,7 @@ package com.aaa.shiro.realm;
 public class Hello {
     private void  test(){
         System.out.println("你好！");
+        System.out.println("fsdfjslf");
     }
 }
 
